@@ -1,0 +1,1 @@
+export { TrendCharts } from './components/TrendCharts';
